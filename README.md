@@ -1,7 +1,7 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Kayke Henrrique dos Santos Alves (202421250032) - santoskayke451@gmail.com
+- Kayke Henrique dos Santos Alves (202421250032) - santoskayke451@gmail.com
 - José Guilherme Moizinho Viana    (202421250030) - guilherme.moizinho17@gmail.com
 - Nome 3 (matrícula) - email  
 
